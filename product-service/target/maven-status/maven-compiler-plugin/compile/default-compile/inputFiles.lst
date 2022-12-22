@@ -1,0 +1,7 @@
+/Volumes/Data/Code/backend/spring/shop-microservice/product-service/src/main/java/com/misterdiallo/backend/productservice/repository/ProductRepository.java
+/Volumes/Data/Code/backend/spring/shop-microservice/product-service/src/main/java/com/misterdiallo/backend/productservice/controller/ProductController.java
+/Volumes/Data/Code/backend/spring/shop-microservice/product-service/src/main/java/com/misterdiallo/backend/productservice/service/ProductService.java
+/Volumes/Data/Code/backend/spring/shop-microservice/product-service/src/main/java/com/misterdiallo/backend/productservice/model/Product.java
+/Volumes/Data/Code/backend/spring/shop-microservice/product-service/src/main/java/com/misterdiallo/backend/productservice/ProductServiceApplication.java
+/Volumes/Data/Code/backend/spring/shop-microservice/product-service/src/main/java/com/misterdiallo/backend/productservice/dto/ProductRequest.java
+/Volumes/Data/Code/backend/spring/shop-microservice/product-service/src/main/java/com/misterdiallo/backend/productservice/dto/ProductResponse.java

@@ -1,0 +1,8 @@
+com/misterdiallo/backend/orderservice/controller/OrderController.class
+com/misterdiallo/backend/orderservice/dto/OrderRequest.class
+com/misterdiallo/backend/orderservice/repository/OrderRepository.class
+com/misterdiallo/backend/orderservice/OrderServiceApplication.class
+com/misterdiallo/backend/orderservice/model/OrderLineItems.class
+com/misterdiallo/backend/orderservice/model/Order.class
+com/misterdiallo/backend/orderservice/dto/OrderLineItemsDto.class
+com/misterdiallo/backend/orderservice/service/OrderService.class

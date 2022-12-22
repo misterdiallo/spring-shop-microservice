@@ -1,0 +1,5 @@
+com/misterdiallo/backend/inventoryservice/repository/InventoryRepository.class
+com/misterdiallo/backend/inventoryservice/model/Inventory.class
+com/misterdiallo/backend/inventoryservice/InventoryServiceApplication.class
+com/misterdiallo/backend/inventoryservice/controller/InventoryController.class
+com/misterdiallo/backend/inventoryservice/service/InventoryService.class
