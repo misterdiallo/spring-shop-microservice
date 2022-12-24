@@ -1,8 +1,0 @@
-/Volumes/Data/Code/backend/spring/shop-microservice/order-service/src/main/java/com/misterdiallo/backend/orderservice/OrderServiceApplication.java
-/Volumes/Data/Code/backend/spring/shop-microservice/order-service/src/main/java/com/misterdiallo/backend/orderservice/dto/OrderRequest.java
-/Volumes/Data/Code/backend/spring/shop-microservice/order-service/src/main/java/com/misterdiallo/backend/orderservice/repository/OrderRepository.java
-/Volumes/Data/Code/backend/spring/shop-microservice/order-service/src/main/java/com/misterdiallo/backend/orderservice/model/Order.java
-/Volumes/Data/Code/backend/spring/shop-microservice/order-service/src/main/java/com/misterdiallo/backend/orderservice/service/OrderService.java
-/Volumes/Data/Code/backend/spring/shop-microservice/order-service/src/main/java/com/misterdiallo/backend/orderservice/model/OrderLineItems.java
-/Volumes/Data/Code/backend/spring/shop-microservice/order-service/src/main/java/com/misterdiallo/backend/orderservice/dto/OrderLineItemsDto.java
-/Volumes/Data/Code/backend/spring/shop-microservice/order-service/src/main/java/com/misterdiallo/backend/orderservice/controller/OrderController.java
